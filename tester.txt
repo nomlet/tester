@@ -2,3 +2,4 @@ Initial version of tester.
 Second version has this new line added.
 Fourth line added in place of third.
 Fifth line added.
+Alternate sixth line, from the master branch!
