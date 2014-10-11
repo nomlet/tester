@@ -1,6 +1,5 @@
 Initial version of tester.
 Second version has this new line added.
 Fourth line added in place of third.
-Fifth line atted.
+Fifth line added.
 Sixth line added to the spell-error branch.
-
