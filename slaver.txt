@@ -1,2 +1,4 @@
-No more slaves!  They've been freed!
+New_slave1.
+New_slave2.
+
 
