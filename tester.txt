@@ -1,5 +1,2 @@
-Initial version of tester.
-Second version has this new line added.
-Fourth line added in place of third.
-Fifth line added.
-Sixth line added to the spell-error branch.
+Tester is now cleaned up.  Let further testing commence.
+This was done locally.
