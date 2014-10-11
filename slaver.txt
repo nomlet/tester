@@ -1,5 +1,3 @@
 New_slave1.
 New_slave2.
-New_slave3!
-
 
